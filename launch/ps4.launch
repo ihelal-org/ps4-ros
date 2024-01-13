@@ -1,5 +1,5 @@
 <launch>
-	
+
   	<!-- ds4drv -->
   	<node name="ds4drv_script_call" pkg="ps4_ros" type="run_ds4drv.sh" output="screen" />
 
@@ -18,5 +18,3 @@
 	</node>
 
 </launch>
-
-
