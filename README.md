@@ -1,7 +1,7 @@
 # ps4_ros
 Sony PlayStation 4 DualShock®4 node joy_msg to twist_msg
 
-# Installation
+# How to install
 1. Install __ds4dr__: `$sudo pip install ds4drv`
 1. Install __ros-joy__: http://wiki.ros.org/joy
 1. Go into pairing mode with PS4: Playstation button + share button for ~5 sec
