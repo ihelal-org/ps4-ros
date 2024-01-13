@@ -1,9 +1,7 @@
 ---
 name: pre-commit
 
-on:
-  push:
-    branches: [ "*" , "!mian" ]
+on: [push]
 
 jobs:
   pre-commit:
